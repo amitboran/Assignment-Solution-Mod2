@@ -3,7 +3,7 @@
 <head>
 <meta charset = "utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" >
- <title>Assignment Solution For MOdule 2 </title>
+ <title>Assignment Solution For Module 2 </title>
  <link rel="stylesheet" href="style.css">
 </head>
                               
