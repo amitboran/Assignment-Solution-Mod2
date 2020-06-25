@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #808080   ;
+    background-color:#FFFFFF	  ;
 }
 
 h1 {
@@ -34,17 +34,17 @@ section>h2 {
 
 section.chicken>h2 {
     color: #000000  
-    background-color:#FFB6C1;
+    background-color:#808080	;
 }
 
 section.Beef>h2 {
     color: #FFFFFF;
-    background-color: #800000;
+    background-color: #808080	;
 }
 
 section.Sushi>h2 {
     color: #000000 ;
-    background-color: #FFFF99;
+    background-color: #808080	;
 }
 
 section>p {
